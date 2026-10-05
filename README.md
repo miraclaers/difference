@@ -1,6 +1,6 @@
 # Welcome to HashLips 👄
 
-To find out more please visit:
+
 
 [📺 YouTube](https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA)
 
