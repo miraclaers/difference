@@ -14,6 +14,3 @@ To find out more please visit:
 
 [ℹ️ Website](https://hashlips.online/HashLips)
 
-
-# solidity_smart_contracts
-A list of smart contracts coded in solidity 
