@@ -1,7 +1,5 @@
 # Welcome to HashLips 👄
 
-
-
 [📺 YouTube](https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA)
 
 [👄 Discord](https://discord.com/invite/qh6MWhMJDN)
